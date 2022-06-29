@@ -28,20 +28,20 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: RMIT University
-      year: 2021-
+      year: 2021 -
     - course: M.S. in Computer Science
       institution: Wuhan University
-      year: 2017-2020
+      year: 2017 - 2020
     - course: BSc in Computer Science
       institution: Wuhan University
-      year: 2013-2017
+      year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com.au/citations?hl=en&tzom=-600&user=N9aGCT4AAAAJ
   - icon: github
