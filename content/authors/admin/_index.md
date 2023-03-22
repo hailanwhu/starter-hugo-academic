@@ -68,5 +68,3 @@ highlight_name: true
 Hai is a Ph.D. student at RMIT University under the supervision of Prof. Zhifeng Bao and Prof. Shane Culpepper. Hai obtained his bachelor's degree and master's degree (supervisor A/Prof. Yuwei Peng) in 2017 and 2020 at Wuhan Univerity.
 
 Please visit my new homepage here: https://sites.google.com/view/hailan/home
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/hailan_cv_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
